@@ -1,0 +1,74 @@
+
+h1#encabezado {
+text-align: center;
+color: yellow;
+
+}
+
+
+
+p#desplazado1 {
+    position: relative;
+    top: 100px;
+    left: 150px;
+
+color: royalblue;
+}
+
+
+img#imagen_alicante {
+    position: relative;
+    top: 100px;
+    left: 150px;
+
+}
+
+
+
+p#desplazado2 {
+    position: relative;
+    text-align: center;
+    top: 130px;
+  color: royalblue;  
+
+}
+
+
+
+img#foto_valencia {
+    position: relative;
+    top: 120px;
+    left: 700px;
+
+}
+
+
+
+
+p#desplazado3 {
+    position: relative;
+    top: 120px;
+    left: 1340px;
+color: royalblue;
+
+}
+
+
+img#foto_castellon {
+    position: relative;
+    top: 120px;
+    left: 1200px;
+
+}
+
+
+
+p#texto_final {
+    position: relative;
+    top: 150px;
+   
+    text-align: center;
+    background-color: red;
+}
+
+
